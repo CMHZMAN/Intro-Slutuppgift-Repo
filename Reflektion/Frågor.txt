@@ -1,29 +1,35 @@
 -- Vad är skillnaden mellan IaaS, PaaS och SaaS?
 
+IaaS (Infrastructure as a Service), PaaS (Platform as a Service) och SaaS (Software as a Service) är tre olika modeller för molntjänster:
 
+IaaS: IaaS erbjuder grundläggande IT-infrastruktur som virtuella maskiner, lagring och nätverk. Användare kan hyra dessa resurser och hantera dem själva. Exempel på IaaS-leverantörer är Amazon Web Services (AWS) och Microsoft Azure.
+
+PaaS: PaaS erbjuder en plattform som gör det möjligt för utvecklare att bygga, distribuera och hantera applikationer utan att behöva hantera den underliggande infrastrukturen. Det inkluderar verktyg och tjänster för utveckling, testning och distribution. Exempel på PaaS-leverantörer är Google App Engine och Heroku.
+
+SaaS: SaaS erbjuder färdiga applikationer som användare kan komma åt via internet. Användare behöver inte installera eller underhålla programvaran själva, utan betalar vanligtvis en prenumerationsavgift för att använda tjänsten. Exempel på SaaS-applikationer är Google Workspace (Gmail, Google Docs) och Microsoft 365.
 
 
 
 
 -- Vad gör Git och vad är GitHub?
 
-
+Git är ett versionshanteringssystem som används för att spåra ändringar i källkod och andra filer över tid. Det gör det möjligt för utvecklare att samarbeta, hantera olika versioner av kod och återställa tidigare versioner vid behov. GitHub är en webbaserad plattform som bygger på Git och erbjuder ytterligare funktioner för samarbete, såsom issues, pull requests och projektledning. Det gör det enkelt för utvecklare att dela kod, granska ändringar och arbeta tillsammans på projekt.
 
 
 
 
 -- Vad är ett informationssystem?
 
-
+Det är ett system som samlar in, lagrar, bearbetar och distribuerar information för att stödja beslutsfattande och verksamhetsprocesser inom en organisation. Informationssystem kan inkludera hårdvara, mjukvara, data, människor och processer som arbetar tillsammans för att hantera information effektivt. Exempel på informationssystem är kundrelationshanteringssystem (CRM), affärssystem (ERP) och databashanteringssystem (DBMS).
 
 
 -- Vad är CIA-triaden?
 
-
+CIA-triaden är en modell som används för att beskriva de tre grundläggande principerna för informationssäkerhet: Confidentiality (konfidentialitet), Integrity (integritet) och Availability (tillgänglighet).
 
 
 -- Vad är Continuous Integration (CI)?
 
-
+Continuous Integration (CI) är en mjukvaruutvecklingspraxis där utvecklare regelbundet integrerar sin kod i en gemensam kodbas, ofta flera gånger om dagen. Varje integration verifieras genom automatiserade bygg- och testprocesser för att snabbt upptäcka och åtgärda fel. CI syftar till att förbättra kodkvaliteten, minska integrationsproblem och påskynda utvecklingscykeln genom att möjliggöra snabbare feedback och samarbete mellan teammedlemmar.
 
 
