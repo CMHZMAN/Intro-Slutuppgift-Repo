@@ -1,5 +1,35 @@
-Vad visste du om mjukvaruutveckling innan kursen � och vad vet du nu?
-Vad betyder �DevOps� f�r dig? Hur skulle du f�rklara det till en kompis?
-Hur t�nker du kring molnet? Vad k�nns sp�nnande � och vad k�nns sv�rt?
-Vad inneb�r det att vara en systemutvecklare i ett team?
+Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
+
+
+Jag har lärt mig mycket om mjukvaruutveckling under kursens gång. Innan kursen hade jag en grundläggande förståelse för programmering och några av de verktyg som används inom mjukvaruutveckling, primärt genom självstudier och tidigare kurser. Nu har jag en mycket bättre förståelse för hela utvecklingsprocessen, inklusive koncept som versionkontroll med Git och GitHub, Continuous Integration (CI), och olika molntjänster som IaaS, PaaS och SaaS. Jag har också fått insikt i hur team samarbetar i mjukvaruutveckling och vikten av att följa säkerhetsprinciper som CIA-triaden (Confidentiality, Integrity, Availability).
+
+
+
+Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
+
+Devops är en kombination av "development" (utveckling) och "operations" (drift). Det handlar om att integrera och samarbeta mellan utvecklingsteamet som skapar mjukvaran och driftsteamet som hanterar och underhåller den. Målet med DevOps är att göra hela processen smidigare, snabbare och mer pålitlig genom att automatisera arbetsflöden, använda verktyg för kontinuerlig integration och leverans, och främja en kultur av samarbete och kommunikation mellan teamen. Jag skulle förklara det till en kompis genom att säga att DevOps är som att ha ett lag där alla jobbar tillsammans för att göra en app eller en hemsida så bra som möjligt, från att skriva koden till att se till att den fungerar bra när folk använder den.
+
+
+
+Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
+
+
+Jag tycker att molnet är ett spännande område eftersom det erbjuder flexibilitet, skalbarhet och kostnadseffektivitet för både företag och individer. Det är fascinerande hur snabbt ytterligare resurser kan läggas till eller tas bort beroende på behov, och hur det möjliggör samarbete och åtkomst till data från vilken plats som helst. Det som känns svårt är att förstå alla olika tjänster och modeller (IaaS, PaaS, SaaS) samt säkerhetsaspekterna kring att lagra data i molnet. Det kan också vara utmanande att välja rätt molntjänstleverantör och att hantera kostnaderna på ett effektivt sätt. Alla har inte samma nivå av teknisk kunskap, vilket kan göra det svårt att navigera i molnlandskapet.
+
+
+
+
+Vad innebär det att vara en systemutvecklare i ett team?
+
+
+Att vara en systemutvecklare i ett team innebär att vara en del av en grupp som tillsammans arbetar för att designa, utveckla, testa och underhålla mjukvarusystem. Det kräver god kommunikation och samarbetsförmåga, eftersom man inte bara arbetar med sin egen kod utan också måste integrera sitt arbete med andras. Det innebär också att följa gemensamma riktlinjer och standarder, använda verktyg för versionkontroll som Git, och delta i regelbundna möten för att diskutera framsteg och utmaningar. En systemutvecklare måste vara flexibel och kunna anpassa sig till förändringar, samt vara villig att lära sig nya teknologier och metoder för att förbättra både sin egen och teamets prestation.
+
+
+
+
 Vad har varit mest intressant under kursens tre veckor?
+
+Jag tycker att kursen i helhet har varit intressant, just för att jag har fått en bredare förståelse för mjukvaruutveckling och de olika aspekterna som ingår i processen. Mer än vad jag hade förställt mig. Även om jag inte hade studerat programmering eller liknande, uppskattar jag hur introduktionen verkligen tog det långsamt så alla kunskapsnivåer kunde hänga med.
+
+
+
