@@ -1,32 +1,35 @@
-Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
+Vad visste du om mjukvaruutveckling innan kursen â€“ och vad vet du nu?
 
 
-Jag har lärt mig mycket om mjukvaruutveckling under kursens gång. Innan kursen hade jag en grundläggande förståelse för programmering och några av de verktyg som används inom mjukvaruutveckling, primärt genom självstudier och tidigare kurser. Nu har jag en mycket bättre förståelse för hela utvecklingsprocessen, inklusive koncept som versionkontroll med Git och GitHub, Continuous Integration (CI), och olika molntjänster som IaaS, PaaS och SaaS. Jag har också fått insikt i hur team samarbetar i mjukvaruutveckling och vikten av att följa säkerhetsprinciper som CIA-triaden (Confidentiality, Integrity, Availability).
-
-
-
-Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
-
-Devops är en kombination av "development" (utveckling) och "operations" (drift). Det handlar om att integrera och samarbeta mellan utvecklingsteamet som skapar mjukvaran och driftsteamet som hanterar och underhåller den. Målet med DevOps är att göra hela processen smidigare, snabbare och mer pålitlig genom att automatisera arbetsflöden, använda verktyg för kontinuerlig integration och leverans, och främja en kultur av samarbete och kommunikation mellan teamen. Jag skulle förklara det till en kompis genom att säga att DevOps är som att ha ett lag där alla jobbar tillsammans för att göra en app eller en hemsida så bra som möjligt, från att skriva koden till att se till att den fungerar bra när folk använder den.
+Jag har lÃ¤rt mig mycket om mjukvaruutveckling under kursens gÃ¥ng. Innan kursen hade jag en grundlÃ¤ggande fÃ¶rstÃ¥else fÃ¶r programmering och nÃ¥gra av de verktyg som anvÃ¤nds inom mjukvaruutveckling, primÃ¤rt genom sjÃ¤lvstudier och tidigare kurser. Nu har jag en mycket bÃ¤ttre fÃ¶rstÃ¥else fÃ¶r hela utvecklingsprocessen, inklusive koncept som versionkontroll med Git och GitHub, Continuous Integration (CI), och olika molntjÃ¤nster som IaaS, PaaS och SaaS. Jag har ocksÃ¥ fÃ¥tt insikt i hur team samarbetar i mjukvaruutveckling och vikten av att fÃ¶lja sÃ¤kerhetsprinciper som CIA-triaden (Confidentiality, Integrity, Availability).
 
 
 
-Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
+Vad betyder â€œDevOpsâ€ fÃ¶r dig? Hur skulle du fÃ¶rklara det till en kompis?
 
-
-Jag tycker att molnet är ett spännande område eftersom det erbjuder flexibilitet, skalbarhet och kostnadseffektivitet för både företag och individer. Det är fascinerande hur snabbt ytterligare resurser kan läggas till eller tas bort beroende på behov, och hur det möjliggör samarbete och åtkomst till data från vilken plats som helst. Det som känns svårt är att förstå alla olika tjänster och modeller (IaaS, PaaS, SaaS) samt säkerhetsaspekterna kring att lagra data i molnet. Det kan också vara utmanande att välja rätt molntjänstleverantör och att hantera kostnaderna på ett effektivt sätt. Alla har inte samma nivå av teknisk kunskap, vilket kan göra det svårt att navigera i molnlandskapet.
-
+Devops Ã¤r en kombination av "development" (utveckling) och "operations" (drift). Det handlar om att integrera och samarbeta mellan utvecklingsteamet som skapar mjukvaran och driftsteamet som hanterar och underhÃ¥ller den. MÃ¥let med DevOps Ã¤r att gÃ¶ra hela processen smidigare, snabbare och mer pÃ¥litlig genom att automatisera arbetsflÃ¶den, anvÃ¤nda verktyg fÃ¶r kontinuerlig integration och leverans, och frÃ¤mja en kultur av samarbete och kommunikation mellan teamen. Jag skulle fÃ¶rklara det till en kompis genom att sÃ¤ga att DevOps Ã¤r som att ha ett lag dÃ¤r alla jobbar tillsammans fÃ¶r att gÃ¶ra en app eller en hemsida sÃ¥ bra som mÃ¶jligt, frÃ¥n att skriva koden till att se till att den fungerar bra nÃ¤r folk anvÃ¤nder den.
 
 
 
-Vad innebär det att vara en systemutvecklare i ett team?
+Hur tÃ¤nker du kring molnet? Vad kÃ¤nns spÃ¤nnande â€“ och vad kÃ¤nns svÃ¥rt?
 
 
-Att vara en systemutvecklare i ett team innebär att vara en del av en grupp som tillsammans arbetar för att designa, utveckla, testa och underhålla mjukvarusystem. Det kräver god kommunikation och samarbetsförmåga, eftersom man inte bara arbetar med sin egen kod utan också måste integrera sitt arbete med andras. Det innebär också att följa gemensamma riktlinjer och standarder, använda verktyg för versionkontroll som Git, och delta i regelbundna möten för att diskutera framsteg och utmaningar. En systemutvecklare måste vara flexibel och kunna anpassa sig till förändringar, samt vara villig att lära sig nya teknologier och metoder för att förbättra både sin egen och teamets prestation.
+Jag tycker att molnet Ã¤r ett spÃ¤nnande omrÃ¥de eftersom det erbjuder flexibilitet, skalbarhet och kostnadseffektivitet fÃ¶r bÃ¥de fÃ¶retag och individer. Det Ã¤r fascinerande hur snabbt ytterligare resurser kan lÃ¤ggas till eller tas bort beroende pÃ¥ behov, och hur det mÃ¶jliggÃ¶r samarbete och Ã¥tkomst till data frÃ¥n vilken plats som helst. Det som kÃ¤nns svÃ¥rt Ã¤r att fÃ¶rstÃ¥ alla olika tjÃ¤nster och modeller (IaaS, PaaS, SaaS) samt sÃ¤kerhetsaspekterna kring att lagra data i molnet. Det kan ocksÃ¥ vara utmanande att vÃ¤lja rÃ¤tt molntjÃ¤nstleverantÃ¶r och att hantera kostnaderna pÃ¥ ett effektivt sÃ¤tt. Alla har inte samma nivÃ¥ av teknisk kunskap, vilket kan gÃ¶ra det svÃ¥rt att navigera i molnlandskapet.
+
+
+
+
+Vad innebÃ¤r det att vara en systemutvecklare i ett team?
+
+
+Att vara en systemutvecklare i ett team innebÃ¤r att vara en del av en grupp som tillsammans arbetar fÃ¶r att designa, utveckla, testa och underhÃ¥lla mjukvarusystem. Det krÃ¤ver god kommunikation och samarbetsfÃ¶rmÃ¥ga, eftersom man inte bara arbetar med sin egen kod utan ocksÃ¥ mÃ¥ste integrera sitt arbete med andras. Det innebÃ¤r ocksÃ¥ att fÃ¶lja gemensamma riktlinjer och standarder, anvÃ¤nda verktyg fÃ¶r versionkontroll som Git, och delta i regelbundna mÃ¶ten fÃ¶r att diskutera framsteg och utmaningar. En systemutvecklare mÃ¥ste vara flexibel och kunna anpassa sig till fÃ¶rÃ¤ndringar, samt vara villig att lÃ¤ra sig nya teknologier och metoder fÃ¶r att fÃ¶rbÃ¤ttra bÃ¥de sin egen och teamets prestation.
 
 
 
 
 Vad har varit mest intressant under kursens tre veckor?
 
-Jag tycker att kursen i helhet har varit intressant, just för att jag har fått en bredare förståelse för mjukvaruutveckling och de olika aspekterna som ingår i processen. Mer än vad jag hade förställt mig. Även om jag inte hade studerat programmering eller liknande, uppskattar jag hur introduktionen verkligen tog det långsamt så alla kunskapsnivåer kunde hänga med.
+Jag tycker att kursen i helhet har varit intressant, just fÃ¶r att jag har fÃ¥tt en bredare fÃ¶rstÃ¥else fÃ¶r mjukvaruutveckling och de olika aspekterna som ingÃ¥r i processen. Mer Ã¤n vad jag hade fÃ¶rstÃ¤llt mig. Ã„ven om jag inte hade studerat programmering eller liknande, uppskattar jag hur introduktionen verkligen tog det lÃ¥ngsamt sÃ¥ alla kunskapsnivÃ¥er kunde hÃ¤nga med.
+
+
+
